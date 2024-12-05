@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Trouvez votre maison de reve</string>
+    <string name="home_details">Détails de la maison</string>
+    <string name="star">★</string>
+    <string name="to_do">to_do</string>
+    <string name="apartment_image">image de l\'appartement</string>
+    <string name="s_0">Appartement S+0</string>
+    <string name="_1_bedroom">1 chambre</string>
+    <string name="good_location">Bon emplacement</string>
+    <string name="security">Sécurité</string>
+    <string name="home_s_0">Cet appartement S+0 entièrement meublé et bien équipé offre confort et commodité. Situé dans une résidence sécurisée avec surveillance 24h/24 et 7j/7, il offre un environnement paisible. L\'appartement comprend une kitchenette, la climatisation et de nombreux rangements. Un service de conciergerie est également disponible pour plus de commodité. Idéal pour toute personne recherchant un espace de vie calme, sécurisé et sans tracas.</string>
+    <string name="title_s_0">Charmant Appartement S+0 dans une Résidence Sécurisée et Calme</string>
+    <string name="ratevalue4">4.0</string>
+    <string name="_400">400 TND</string>
+    <string name="book_this_apartment">Louer cet appartement</string>
+    <string name="log_out">Déconnexion</string>
+    <string name="add_an_offer">Ajouter une offre</string>
+    <string name="home">Accueil</string>
+    <string name="backbutton">backButton</string>
+    <string name="s_1_apartment">Appartement S+1</string>
+    <string name="home_s_1">Cet appartement S+1 entièrement meublé et bien équipé dispose d\'une chambre, d\'un salon et d\'une cuisine ouverte, offrant à la fois confort et commodité. Situé dans une résidence sécurisée avec surveillance 24h/24 et 7j/7, il offre un environnement paisible et sûr. L\'appartement comprend la climatisation, une kitchenette et de nombreux rangements. Un service de conciergerie est également disponible pour plus de commodité. Idéal pour tous ceux qui recherchent un espace de vie calme, sécurisé et sans tracas.</string>
+    <string name="title_s_1">Charmant Appartement S+1 à Louer dans une Résidence Sécurisée et Calme</string>
+    <string name="_600_tnd">600 TND</string>
+    <string name="single_or_double_room">Chambre simple ou double</string>
+    <string name="s_2_apartment">Appartement S+2</string>
+    <string name="_800_tnd">800 TND</string>
+    <string name="todo">TODO</string>
+    <string name="add_an_apartment_for_rent">Ajouter un appartement à louer</string>
+    <string name="enter_type_of_apartment">Entrez le type d\'appartement (S+0 Apartment)</string>
+    <string name="enter_the_price_tnd">Entrez le prix (TND)</string>
+    <string name="where">Où ?</string>
+    <string name="what_s_your_price">Quel est votre prix ?</string>
+    <string name="ex_300_tnd">Ex 300 TND</string>
+    <string name="what_is_the_type_of_room">Quel est le type de chambre ?</string>
+    <string name="add_your_home_for_rent">Ajoutez votre maison à louer !</string>
+    <string name="shared_room">Chambre partagée</string>
+    <string name="single_room">Chambre simple</string>
+    <string name="what_is_the_types_of_house">Quels sont le type de maison ?</string>
+    <string name="offer_title">Titre de l\'offre !</string>
+    <string name="cozy_s_1_apartment_in_a_quiet_secure_residence">Appartement cosy S+1 dans une résidence calme et sécurisée</string>
+    <string name="add">Ajouter</string>
+    <string name="description">Description …</string>
+    <string name="select_image">Sélectionner une image</string>
+    <string name="house_image">Image de la maison</string>
+    <string name="share_a_cozy_snapshot_of_your_home">Partagez une déscription chaleureux de votre maison!</string>
+    <string name="let_s_see_your_house">Voyons votre maison!</string>
+    <string name="login">Connexion</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="not_yet_registered_signup_now">Pas encore inscrit ? Inscrivez-vous maintenant</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="enter_your_email">Entrez votre e-mail</string>
+    <string name="enter_phone_number">Entrez votre numéro de téléphone</string>
+    <string name="enter_your_password">Entrez votre mot de passe</string>
+    <string name="sign_up">Inscrivez-vous</string>
+     <string name="identifiants_incorrects_veuillez_ressayer">Identifiants incorrects, veuillez réessayer.</string>
+    <string name="cet_email_est_deja_utilise">Cet email est déjà utilisé.</string>
+    <string name="inscription_reussie">Inscription réussie</string>
+    <string name="erreur_lors_de_l_inscription_veuillez_r_essayer">Erreur lors de l\'inscription, veuillez réessayer.</string>
+    <string name="non_specifie">Non spécifié</string>
+    <string name="age_doit_tre_compris_entre_15_et_100_ans">L\'âge doit être compris entre 15 et 100 ans.</string>
+    <string name="veuillez_entrer_un_age_valide">Veuillez entrer un âge valide.</string>
+    <string name="veuillez_entrer_un_email_valide">Veuillez entrer un email valide.</string>
+    <string name="le_mots_de_passe_de_doit_contenir_au_moins_8_chiffres">Le mots de passe de doit contenir au moins 8 chiffres.</string>
+    <string name="le_num_ro_de_t_l_phone_doit_contenir_exactement_8_chiffres">Le numéro de téléphone doit contenir exactement 8 chiffres.</string>
+    <string name="veuillez_remplir_tous_les_champs_et_accepter_les_conditions">Veuillez remplir tous les champs et accepter les conditions.</string>
+    <string name="please_enter_your_email_or_password">Veuillez entrer votre email ou votre mot de passe</string>
+    <string name="error_fetching_user_details">Erreur lors de la récupération des informations de l\'utilisateur. Veuillez réessayer.</string>
+    <string name="let_s_get_started">Commençons</string>
+    <string name="find_your_perfect_home">Trouvez votre maison idéale !</string>
+    <string name="what_s_your_price_range">Quelle est votre fourchette de prix ?</string>
+    <string name="what_is_your_types_of_rooms">Quels sont vos types de pièces</string>
+    <string name="what_is_your_types_of_houses">Quels sont vos types de maisons</string>
+    <string name="submit">Soumettre</string>
+    <string name="skip">Passer</string>
+    <string name="do_you_already_have_an_account_login">Vous avez déjà un compte ? Se connecter</string>
+    <string-array name="regions">
+        <item>Sfax Medina</item>
+        <item>Sakiet Ezzit</item>
+        <item>Sakiet Eddaïer</item>
+        <item>El Ain</item>
+        <item>Thyna</item>
+        <item>Agareb</item>
+        <item>Jebeniana</item>
+        <item>Mahrès</item>
+        <item>Bir Ali Ben Khalifa</item>
+        <item>Skhira</item>
+        <item>Kerkennah</item>
+    </string-array>
+
+    <string-array name="room_types">
+        <item>Chambre individuel</item>
+        <item>Chambre double</item>
+    </string-array>
+
+    <string-array name="house_types">
+        <item>Appartement S+0</item>
+        <item>Appartement S+1</item>
+        <item>Appartement S+2</item>
+        <item>Appartement S+3</item>
+        <item>Appartement S+4</item>
+    </string-array>
+</resources>

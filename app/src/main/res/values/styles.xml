@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Style pour les éléments du menu -->
+    <style name="MinimalMenuItem" parent="Widget.AppCompat.ActionButton">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

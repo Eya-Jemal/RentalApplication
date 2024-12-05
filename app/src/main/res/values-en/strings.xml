@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Find you dream home</string>
+    <string name="home_details">Home Details</string>
+    <string name="star">★</string>
+    <string name="to_do">to_do</string>
+    <string name="apartment_image">apartment image</string>
+    <string name="s_0">S+0 Apartment</string>
+    <string name="_1_bedroom">1 bedroom</string>
+    <string name="good_location">Good location</string>
+    <string name="security">Security</string>
+    <string name="home_s_0">This fully furnished, well-equipped S+0 apartment offers comfort and convenience. Located in a secure residence with 24/7 surveillance, it provides a peaceful environment. The apartment includes a kitchenette, air conditioning, and ample storage. A concierge service is also available for added convenience. Ideal for anyone seeking a quiet, secure, and hassle-free living space.</string>
+    <string name="title_s_0">Charming S+0 Apartment in a Secure and Quiet Residence</string>
+    <string name="_400">400 TND</string>
+    <string name="book_this_apartment">Rent this apartment</string>
+    <string name="ratevalue4">4.0</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_an_offer">Add an offer</string>
+    <string name="please_enter_your_email_or_password">Please enter your email or password</string>
+    <string name="identifiants_incorrects_veuillez_ressayer">Incorrect credentials, please try again.</string>
+    <string name="cet_email_est_deja_utilise">This email is already in use.</string>
+    <string name="inscription_reussie">Registration successful</string>
+    <string name="erreur_lors_de_l_inscription_veuillez_r_essayer">Error during registration, please try again.</string>
+    <string name="error_fetching_user_details">Error fetching user details. Please try again.</string>
+
+    <string name="non_specifie">Not specified</string>
+    <string name="age_doit_tre_compris_entre_15_et_100_ans">Age must be between 15 and 100 years old.</string>
+    <string name="veuillez_entrer_un_age_valide">Please enter a valid age.</string>
+    <string name="veuillez_entrer_un_email_valide">Please enter a valid email.</string>
+    <string name="le_mots_de_passe_de_doit_contenir_au_moins_8_chiffres">The password must contain at least 8 characters.</string>
+    <string name="le_num_ro_de_t_l_phone_doit_contenir_exactement_8_chiffres">The phone number must contain exactly 8 digits.</string>
+    <string name="veuillez_remplir_tous_les_champs_et_accepter_les_conditions">Please fill in all fields and accept the terms.</string>
+    <string name="home">Home</string>
+    <string name="backbutton">backButton</string>
+    <string name="s_1_apartment">S+1 Apartment</string>
+    <string name="home_s_1">This fully furnished, well-equipped S+1 apartment features a bedroom, a living room, and an open kitchen, offering both comfort and convenience. Located in a secure residence with 24/7 surveillance, it provides a peaceful and safe environment. The apartment includes air conditioning, a kitchenette, and plenty of storage space. A concierge service is also available for added convenience. Ideal for anyone looking for a quiet, secure, and hassle-free living space.</string>
+    <string name="title_s_1">Charming S+1 Apartment for Rent in a Secure and Quiet Residence</string>
+    <string name="_600_tnd">600 TND</string>
+    <string name="single_or_double_room">Single or double room</string>
+    <string name="s_2_apartment">S+2 Apartment</string>
+    <string name="_800_tnd">800 TND</string>
+    <string name="todo">TODO</string>
+    <string name="add_an_apartment_for_rent">Add an apartment for rent</string>
+    <string name="enter_type_of_apartment">Enter the type of apartment(S+0 Apartment)</string>
+    <string name="enter_the_price_tnd">Enter the price(TND)</string>
+    <string name="where">Where?</string>
+    <string name="what_s_your_price">What\'s your Price?</string>
+    <string name="ex_300_tnd">Ex 300 TND</string>
+    <string name="what_is_the_type_of_room">What is the type of room?</string>
+    <string name="add_your_home_for_rent">Add Your Home For Rent!</string>
+    <string name="shared_room">Shared Room</string>
+    <string name="single_room">Single Room</string>
+    <string name="what_is_the_types_of_house">What is the type of House?</string>
+    <string name="offer_title">Offer Title!</string>
+    <string name="cozy_s_1_apartment_in_a_quiet_secure_residence">Cozy S+1 Apartment in a Quiet, Secure Residence</string>
+    <string name="add">Add</string>
+    <string name="description">Description ...</string>
+    <string name="select_image">Select image</string>
+    <string name="house_image">House image</string>
+    <string name="share_a_cozy_snapshot_of_your_home">Share a cozy snapshot of your home!</string>
+    <string name="let_s_see_your_house">Let’s see your house!</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_yet_registered_signup_now">Not yet registered? SignUp Now</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="do_you_already_have_an_account_login">Do you already have an account? Login</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="what_s_your_price_range">What\'s your Price Range?</string>
+    <string name="what_is_your_types_of_rooms">What is your types of rooms</string>
+    <string name="find_your_perfect_home">Find Your Perfect Home!</string>
+    <string name="what_is_your_types_of_houses">What is your types of Houses</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string-array name="regions">
+        <item>Sfax Medina</item>
+        <item>Sakiet Ezzit</item>
+        <item>Sakiet Eddaïer</item>
+        <item>El Ain</item>
+        <item>Thyna</item>
+        <item>Agareb</item>
+        <item>Jebeniana</item>
+        <item>Mahrès</item>
+        <item>Bir Ali Ben Khalifa</item>
+        <item>Skhira</item>
+        <item>Kerkennah</item>
+    </string-array>
+
+    <string-array name="room_types">
+        <item>Single Room</item>
+        <item>Double Room</item>
+    </string-array>
+
+    <string-array name="house_types">
+        <item>S+0 Apartment</item>
+        <item>S+1 Apartment</item>
+        <item>S+2 Apartment</item>
+        <item>S+3 Apartment</item>
+        <item>S+4 Apartment</item>
+    </string-array>
+</resources>
